@@ -1,0 +1,117 @@
+a{
+    color: #1c6bc0;
+}
+body{
+    font-family: 'Merriweather', serif;
+    margin: 5px;
+    text-align:center;
+    background-color: #CBEDD5;
+}
+.bottom-container{
+    padding-top: 20px;
+}
+.cloud-1{
+    position:absolute;
+    right: 450px;
+    top: 110px;
+}
+.cloud-2{
+    position: absolute;
+    top: 420px;
+}
+.goal{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+    border-radius: 100px;
+    border-color: #000000;
+    border-style: solid
+}
+h1{
+    color: #222831;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 85px;
+    line-height: 25px;
+    margin: 50px auto 0;
+}
+h2{
+    font-family: 'Dosis', sans-serif;
+    color: #393E46;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Signika Negative', sans-serif;
+    color: #11999E;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: .82rem;
+    color: grey;
+    width: 5%;
+}
+.middle-container{
+    background-color: #EEEEEE;
+    padding-bottom: 10px;
+}
+.mountain{
+    position: relative;
+    width: 1570px;
+    height: max-content;
+    background-color: #62B6B7;
+}
+.profile-img{
+    position: relative;
+    border-radius: 100%;
+    border-style: solid;
+    height: 200px;
+    width: 200px;
+}
+p{
+    font-size: 25px;
+}
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin:100px auto;
+    line-height: 2;
+}
+.team{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+    border-radius: 100px;
+    border-color: #000000;
+    border-style: solid
+}
+.top{
+    position: relative;
+    margin-bottom: 50px;
+}
+.btn {
+    background: #8f34d9;
+    background-image: -webkit-linear-gradient(top, #8f34d9, #b82b95);
+    background-image: -moz-linear-gradient(top, #8f34d9, #b82b95);
+    background-image: -ms-linear-gradient(top, #8f34d9, #b82b95);
+    background-image: -o-linear-gradient(top, #8f34d9, #b82b95);
+    background-image: linear-gradient(to bottom, #8f34d9, #b82b95);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    padding-bottom: 5px;
+  }
+  
+  .btn:hover {
+    background: #425b6b;
+    background-image: -webkit-linear-gradient(top, #425b6b, #607380);
+    background-image: -moz-linear-gradient(top, #425b6b, #607380);
+    background-image: -ms-linear-gradient(top, #425b6b, #607380);
+    background-image: -o-linear-gradient(top, #425b6b, #607380);
+    background-image: linear-gradient(to bottom, #425b6b, #607380);
+    text-decoration: none;
+  }
